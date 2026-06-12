@@ -1,5 +1,5 @@
 # MIT
-![celular](images/cel.png)
+![celular](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/cel.png)
 ## Sobre
 
 Este repositório contém o desenvolvimento de uma aplicação móvel criada utilizando o MIT App Inventor, com finalidade acadêmica.
@@ -45,7 +45,7 @@ Defina aqui a licença desejada para utilização e distribuição do código.
 
 
 ## 👨‍💻 Quem somos nós? 
-![nós](images/download.jfif)
+![nós](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/download.png)
 
 **Benjamin Felippe**
 
