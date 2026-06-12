@@ -48,7 +48,7 @@ Defina aqui a licença desejada para utilização e distribuição do código.
 
 ## 👨‍💻 Quem somos nós? 
 
-| **Benjamin Felippe**
+**Benjamin Felippe**
 
 - GitHub: @Machikko
 - Curso: Desenvolvimento de Sistemas
@@ -59,5 +59,4 @@ Defina aqui a licença desejada para utilização e distribuição do código.
 - GitHub: @AraujoTheCreator
 - Curso: Desenvolvimento de Sistemas
 - Instituição: ETECVAV
- | 
-  -----------------------------![nós](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/download.png)|
+  ![nós](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/download.png)
