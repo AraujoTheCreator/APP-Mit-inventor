@@ -1,11 +1,14 @@
 # MIT
 
-| ![celular](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/cel.png) | ## Sobre
+# MIT
+
+| Sobre | Imagem |
+|------|--------|
+| ## Sobre
 
 Este repositório contém o desenvolvimento de uma aplicação móvel criada utilizando o MIT App Inventor, com finalidade acadêmica.
 
-O projeto foi desenvolvido para aplicar conceitos relacionados ao desenvolvimento de aplicativos móveis, programação visual, experiência do usuário e documentação de software, servindo como base para estudos, pesquisas e atividades educacionais. |
-
+O projeto foi desenvolvido para aplicar conceitos relacionados ao desenvolvimento de aplicativos móveis, programação visual, experiência do usuário e documentação de software, servindo como base para estudos, pesquisas e atividades educacionais. | <img src="Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/cel.png" width="140" align="right"> |
 
 ## 🛠 Tecnologias Utilizadas
 
