@@ -58,5 +58,6 @@ Defina aqui a licença desejada para utilização e distribuição do código.
 
 - GitHub: @AraujoTheCreator
 - Curso: Desenvolvimento de Sistemas
-- Instituição: ETECVAV  | 
+- Instituição: ETECVAV
+ | 
   -----------------------------![nós](Lista_Jogos_MIT_Benjamin_Gabriel/Lista_Games_MIT/images/download.png)|
